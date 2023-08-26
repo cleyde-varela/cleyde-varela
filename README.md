@@ -8,3 +8,8 @@ I'm learning different technologies and exploring different areas, specifically 
 * React
 * HTML, CSS, JS
 * SQL
+
+## 🖇️ Projects
+Take a look at my most recent projects!
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cleyde-varela&layout=compact">
