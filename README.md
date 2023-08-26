@@ -1,7 +1,10 @@
-### Hey there!
+# Hey there!
 My name is Cleyde, and I am currently majoring in Computer Engineering. I'm learning different technologies and exploring different areas, specifically I enjoy working on App and Web development.
 
-Skills: Java / Kotlin / HTML / CSS / Js / SQL
+## Skills and Experience
+Java / Kotlin / HTML / CSS / Js / SQL
+
+## Reach me
 
 
 
