@@ -5,8 +5,8 @@ I'm learning different technologies and exploring different areas, specifically 
 ## 💻 Skills and Experience
 * Java
 * Kotlin
-* React
 * HTML, CSS, JS
+* React
 * SQL
 
 ## 🖇️ Projects
