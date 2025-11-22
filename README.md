@@ -3,7 +3,7 @@ Hey there!
 
 My name is Cleyde, and I recently earned my degree in Computer Engineering.
 
-I enjoy learning and trying out different technologies, specifically I have interest in working with Mobile and Web Development.
+I enjoy learning and trying out different technologies, specifically I have interest in working with Mobile Development.
 
 At the moment I am working to improve my Microsoft Excel and Bash Scripting skills.
 
@@ -12,10 +12,10 @@ At the moment I am working to improve my Microsoft Excel and Bash Scripting skil
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cleyde-varela&layout=compact">
 
 ### :iphone: Android Mobile Development
-Java & Kotlin
+Kotlin
 
 ### :computer: Web Development (Front-end)
-HTML, CSS, JavaSCript, TypeScript & Angular
+HTML, CSS, JavaSCript
   
 ### :open_file_folder: Databases
 MySQL, SQLite & Microsoft SQL Server
