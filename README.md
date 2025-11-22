@@ -15,7 +15,7 @@ At the moment I am working to improve my Microsoft Excel and Bash Scripting skil
 Kotlin
 
 ### :computer: Web Development (Front-end)
-HTML, CSS, JavaSCript
+HTML, CSS, JavaScript
   
 ### :open_file_folder: Databases
 MySQL, SQLite & Microsoft SQL Server
