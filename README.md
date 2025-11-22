@@ -29,7 +29,6 @@ ITIL Framework (Incident & Problem Management)
 
 ## 🖇️ Projects
 Take a look at my most recent projects!
-📊 **Excel Learning** — A growing spreadsheet project to practice Excel skills.
   
 
 ## :speech_balloon: Say hi
